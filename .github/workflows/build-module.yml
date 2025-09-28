@@ -16,7 +16,7 @@ jobs:
             pkgarch: x86_64
             target: x86
             subtarget: 64
-            vermagic: "59d1431675acc6823a33c7eb2323daeb"
+            vermagic: "3505295dd1edf1c0eda57c9ce372bf57-r1"
 
     steps:
       - uses: actions/checkout@v4
